@@ -20,6 +20,5 @@ export default async function (req) {
         fatal: true,
       });
     }
-    console.log(error, "ez egy error");
   }
 }
